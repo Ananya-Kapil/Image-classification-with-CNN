@@ -19,10 +19,11 @@ A deep learning image classification system built using **TensorFlow** and **Ker
 
 # 📸 Screenshots
 
-![Cat Prediction](screenshots/cat_prediction.png)
+# 📸 Screenshots
 
-![Dog Prediction](screenshots/dog_prediction.png)
----
+![Cat Prediction](cat_prediction.png)
+
+![Dog Prediction](dog_prediction.png)
 
 ---
 

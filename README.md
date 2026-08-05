@@ -17,7 +17,7 @@ A deep learning image classification system built using **TensorFlow** and **Ker
 
 ---
 
-# 📸 Screenshots
+
 
 # 📸 Screenshots
 

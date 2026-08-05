@@ -19,18 +19,9 @@ A deep learning image classification system built using **TensorFlow** and **Ker
 
 # 📸 Screenshots
 
-## Cat Prediction
-
-Example of the model correctly predicting a cat image.
-
 ![Cat Prediction](screenshots/cat_prediction.png)
 
-## Dog Prediction
-
-Example of the model correctly predicting a dog image.
-
 ![Dog Prediction](screenshots/dog_prediction.png)
-
 ---
 
 ---

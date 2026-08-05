@@ -33,12 +33,6 @@ Example of the model correctly predicting a dog image.
 
 ---
 
-## 📊 Model Evaluation
-
-Confusion Matrix and Classification Report generated on the test dataset.
-
-![Evaluation](screenshots/evaluation.png)
-
 ---
 
 ## 🛠️ Tech Stack

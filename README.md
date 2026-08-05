@@ -21,15 +21,10 @@ A deep learning image classification system built using **TensorFlow** and **Ker
 
 ## 📁 Project Structure
 
-![Project Structure](screenshots/project-structure.png)
+![Project Structure](screenshots/"C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-08-05 184334.png")
 
----
 
-## 🏋️ Model Training
 
-Training process showing increasing accuracy and decreasing loss over epochs.
-
-![Training](screenshots/training.png)
 
 ---
 
@@ -45,7 +40,7 @@ Example of the model correctly predicting a cat image.
 
 Example of the model correctly predicting a dog image.
 
-![Dog Prediction](screenshots/dog-prediction.png)
+![Dog Prediction](screenshots/"C:\Users\anmol\Pictures\Screenshots\Screenshot 2026-08-05 190529.png")
 
 ---
 
